@@ -1,0 +1,28 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  padding-top: 40px;
+  font-family: cursive;
+  color: rgb(255, 184, 234);
+  text-align: center;
+}
+html {
+  background-color: rgb(3, 0, 49);
+}
+
+button {
+  color: rgb(3, 0, 49);
+  background-color: rgb(255, 184, 234);
+  font-family: cursive;
+  border-radius: 20px;
+}
+button:hover {
+  background-color: rgb(225, 0, 255);
+}
+input {
+  color: rgb(3, 0, 49);
+
+  font-family: cursive;
+  border-radius: 20px;
+  border-width: 2px;
+}
